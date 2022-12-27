@@ -1,7 +1,7 @@
 
 
 import Foundation
-
+import UIKit
 
 public extension String {
     var localized: String {
